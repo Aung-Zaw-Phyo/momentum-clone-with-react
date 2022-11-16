@@ -1,0 +1,11 @@
+tutorial link => https://youtu.be/dTahxuXRmfk
+
+use openweather api (Latitude , Longitude)
+
+use time
+
+use go quote api 
+
+use source.unplash.com for background images
+
+use https://styled-components.com/ for styling
